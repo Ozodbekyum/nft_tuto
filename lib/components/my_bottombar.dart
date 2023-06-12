@@ -32,6 +32,8 @@ class MyBottomBar extends StatelessWidget {
         BottomNavigationBarItem(
           icon: Icon(
             Icons.notifications_outlined,
+            
+            
           ),
           label: 'home',
         ),
